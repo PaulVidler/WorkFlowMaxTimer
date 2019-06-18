@@ -1,0 +1,46 @@
+Timer console app.
+
+GUI:
+- Has start and stop timer.
+- Before start or stop. Timer must be allocated to a job or lunch etc.
+- Allocation will come from Workflowmax API.
+- Perhaps a spot to add your name so there's no confusion over who owns what. (Times getting mixed up etc)
+  Should be alright considering each computer will have a different install. 
+- Probably run from a tool bar app/icon
+- Ability to comment each record
+- Button to email on demand
+- Maybe a tick-box for lunch timer?
+- List times already logged?
+- Edit times already logged? Fuck, this is getting more complicated than expected.
+- "Paul Vidler" written somewhere on the GUI. It's important that management are subtly reminded of who wrote this, and my goals,
+   especially if it goes to Adelaide and get used there! People will use this, even if it's not going to win any innovation awards!
+
+Business:
+- Will email structured times and dates on request.
+- Will save and draw dates from a text file or similar. No need for a DB. Or is there?
+- Will draw allocation data from WorkFlowMax API (See mad-dog)
+
+- Class for "time allocation" - Date, Job, Task, Stop time, Start time, notes properties. (Maybe username seperate?)
+  Perhaps should have a 'fortnight' assigned to it? Maybe not necessary?
+- Class for "Email". Comprise of "time allocation" objects and parsed into readable format. Email address. Username.
+- Class for "WorkFlowMaxJob" objects from WFM API. Only used to populate list boxes
+
+- Start/stop buttons and GUI
+- Ability to edit details for any entry. Perhaps even the ability to use the API to upload directly to WF-Max.
+
+
+Data:
+- Saving to text file? Seems too stone age? Maybe get user to chisel in stone tablets before subimtting?
+- Probably need the DB practice. But is that reason enough to over engineer?
+- Either way, must be able to write/retrieve info on demand
+
+
+
+Action list:
+
+- Write classes
+- Write basic GUI with start/stop function
+- Work out how to send email from GUI
+- Decide on data saving to DB or to txt file?
+- Oh, that's right, you don't know how to make a GUI..... Learn it!
+- More advanced GUI with workflowmax API to pull job list for selection and text space to enter username/email/email buttons.
