@@ -1,0 +1,11 @@
+C:\Users\Paul\Documents\GitHub\WorkFlowMaxTimer\WorkFlowMax_Timer_Console\bin\Debug\netcoreapp2.1\WorkFlowMax_Timer_Console.deps.json
+C:\Users\Paul\Documents\GitHub\WorkFlowMaxTimer\WorkFlowMax_Timer_Console\bin\Debug\netcoreapp2.1\WorkFlowMax_Timer_Console.runtimeconfig.json
+C:\Users\Paul\Documents\GitHub\WorkFlowMaxTimer\WorkFlowMax_Timer_Console\bin\Debug\netcoreapp2.1\WorkFlowMax_Timer_Console.runtimeconfig.dev.json
+C:\Users\Paul\Documents\GitHub\WorkFlowMaxTimer\WorkFlowMax_Timer_Console\bin\Debug\netcoreapp2.1\WorkFlowMax_Timer_Console.dll
+C:\Users\Paul\Documents\GitHub\WorkFlowMaxTimer\WorkFlowMax_Timer_Console\bin\Debug\netcoreapp2.1\WorkFlowMax_Timer_Console.pdb
+C:\Users\Paul\Documents\GitHub\WorkFlowMaxTimer\WorkFlowMax_Timer_Console\obj\Debug\netcoreapp2.1\WorkFlowMax_Timer_Console.csprojAssemblyReference.cache
+C:\Users\Paul\Documents\GitHub\WorkFlowMaxTimer\WorkFlowMax_Timer_Console\obj\Debug\netcoreapp2.1\WorkFlowMax_Timer_Console.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Documents\GitHub\WorkFlowMaxTimer\WorkFlowMax_Timer_Console\obj\Debug\netcoreapp2.1\WorkFlowMax_Timer_Console.AssemblyInfoInputs.cache
+C:\Users\Paul\Documents\GitHub\WorkFlowMaxTimer\WorkFlowMax_Timer_Console\obj\Debug\netcoreapp2.1\WorkFlowMax_Timer_Console.AssemblyInfo.cs
+C:\Users\Paul\Documents\GitHub\WorkFlowMaxTimer\WorkFlowMax_Timer_Console\obj\Debug\netcoreapp2.1\WorkFlowMax_Timer_Console.dll
+C:\Users\Paul\Documents\GitHub\WorkFlowMaxTimer\WorkFlowMax_Timer_Console\obj\Debug\netcoreapp2.1\WorkFlowMax_Timer_Console.pdb

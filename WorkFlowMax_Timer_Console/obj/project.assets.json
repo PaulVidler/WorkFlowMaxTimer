@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Paul\\source\\repos\\WorkFlowMax_Timer_Console\\WorkFlowMax_Timer_Console\\WorkFlowMax_Timer_Console.csproj",
+      "projectUniqueName": "C:\\Users\\Paul\\Documents\\GitHub\\WorkFlowMaxTimer\\WorkFlowMax_Timer_Console\\WorkFlowMax_Timer_Console.csproj",
       "projectName": "WorkFlowMax_Timer_Console",
-      "projectPath": "C:\\Users\\Paul\\source\\repos\\WorkFlowMax_Timer_Console\\WorkFlowMax_Timer_Console\\WorkFlowMax_Timer_Console.csproj",
+      "projectPath": "C:\\Users\\Paul\\Documents\\GitHub\\WorkFlowMaxTimer\\WorkFlowMax_Timer_Console\\WorkFlowMax_Timer_Console.csproj",
       "packagesPath": "C:\\Users\\Paul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Paul\\source\\repos\\WorkFlowMax_Timer_Console\\WorkFlowMax_Timer_Console\\obj\\",
+      "outputPath": "C:\\Users\\Paul\\Documents\\GitHub\\WorkFlowMaxTimer\\WorkFlowMax_Timer_Console\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

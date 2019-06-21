@@ -14,7 +14,7 @@ namespace WorkFlowMax_Timer_GUI
 
         public DateTime FortnightStartDate { get; set; }
 
-        // username for direct entry into WFM. Not sure if this is possible.
+        // username/email for direct entry into WFM. Not sure if this is possible.
         public string User { get; set; }
 
 
